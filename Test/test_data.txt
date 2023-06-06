@@ -1,0 +1,10 @@
+ADD_POOL pool1 sorted_list 1000000 first_match
+ADD_SCHEME pool1 scheme1
+ADD_COLLECTION pool1 scheme1 collection1
+ADD_DATA pool1 scheme1 collection1 2 2 fc741db0a2 zaitsev_master 123.45_beta Error404 NoStatAnalysisError rubbish@gmail.com C:\Windows\for_geniuses I:\Have_No\mistakes
+ADD_DATA pool1 scheme1 collection1 3 3 fc741db0a2 Ilya_Irbitskiy 123.45_beta Error404 NoStatAnalysisError rubbish@gmail.com C:\Windows\for_geniuses I:\Have_No\mistakes
+GET_DATA pool1 scheme1 collection1 2 2
+GET_RANGE pool1 scheme1 collection1 2 2 3 3
+REMOVE_DATA pool1 scheme1 collection1 2 2
+ADD_POOL pool2 buddies_system 1000000 the_best_match
+REMOVE_POOL pool1
