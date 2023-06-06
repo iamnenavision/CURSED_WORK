@@ -1,0 +1,32 @@
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] The tree has been created.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3688 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3948 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3978 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa39a8 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa39d8 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3a08 success.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node inserted.
+[TRACE][03/06/2023 18:29:03] Memory state at address: 0x27b87aa3978 = [12 0 0 0 12 0 0 0 168 57 170 135 123 2 0 0 0 0 0 0 0 0 0 0]
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory at address: 0x27b87aa3978 was deallocated.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node has been deleted.
+[TRACE][03/06/2023 18:29:03] Memory state at address: 0x27b87aa3948 = [2 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 8 58 170 135 123 2 0 0]
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory at address: 0x27b87aa3948 was deallocated.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node has been deleted.
+[TRACE][03/06/2023 18:29:03] Memory state at address: 0x27b87aa39d8 = [8 0 0 0 8 0 0 0 136 54 170 135 123 2 0 0 8 58 170 135 123 2 0 0]
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory at address: 0x27b87aa39d8 was deallocated.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] Node has been deleted.
+[TRACE][03/06/2023 18:29:03] [SPLAY TREE] The tree has been created.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3738 success.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3768 success.
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory allocated success at address: 0x27b87aa3798 success.
+[TRACE][03/06/2023 18:29:03] Memory state at address: 0x27b87aa3688 = [6 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 8 58 170 135 123 2 0 0]
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory at address: 0x27b87aa3688 was deallocated.
+[TRACE][03/06/2023 18:29:03] The tree has been deleted.
+[TRACE][03/06/2023 18:29:03] Memory state at address: 0x27b87aa3738 = [6 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 104 55 170 135 123 2 0 0]
+[TRACE][03/06/2023 18:29:03] [GLOBAL HEAP ALLOCATOR] Memory at address: 0x27b87aa3738 was deallocated.
+[TRACE][03/06/2023 18:29:03] The tree has been deleted.

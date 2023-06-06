@@ -1,0 +1,3 @@
+E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/CMakeFiles/kursovaya.dir
+E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

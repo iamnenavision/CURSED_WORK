@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Zaitsevs_cursed_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zaitsevs_cursed_project">
+				<Option output="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Zaitsevs_cursed_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Zaitsevs_cursed_project"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zaitsevs_cursed_project/fast">
+				<Option output="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Zaitsevs_cursed_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Zaitsevs_cursed_project/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Comparators/compare_keys.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Comparators/compare_keys.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Comparators/compare_strings.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Comparators/compare_strings.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_Types/allocator_types.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_Types/data_type.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/data_collection.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/data_collection.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/database.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/database.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/pool.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/pool.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/scheme.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Data_structures/scheme.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/JSON/json_impl.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/JSON/json_impl.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/builder_impl.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/builder_impl.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/log_hold.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/log_hold.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/logger_impl.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Logger/logger_impl.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/border_descriptors_alloc.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/border_descriptors_alloc.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/buddy_alloc.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/buddy_alloc.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/global_heap_alloc.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/global_heap_alloc.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/hold_memory.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/hold_memory.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/memory.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/memory.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/sorted_list_alloc.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Memory_Alloc/sorted_list_alloc.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_collection.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_collection.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_data.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_data.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_pool.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_pool.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_scheme.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_add_scheme.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_get_data.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_get_data.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_get_data_between.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_get_data_between.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_collection.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_collection.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_data.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_data.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_pool.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_pool.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_scheme.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_remove_scheme.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_update_data.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/command_update_data.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/handler.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/request_handler_with_command.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/request_handler_with_command.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/request_handler_with_command_chain.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Request_Handler/request_handler_with_command_chain.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Trees/associative_container.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Trees/binary_search_tree.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/Trees/splay_tree.h">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/main.cpp">
+			<Option target="Zaitsevs_cursed_project"/>
+		</Unit>
+		<Unit filename="E:/Downloads/OLDKURSACHI/fundamental-algorithms-main/fundamental-algorithms-main/4Term/Zaitsevs_cursed_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
